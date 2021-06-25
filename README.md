@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with curved sections
+# Frontend Mentor - Huddle landing page with curved sections [Watch my site Live](https://huddlelandingpage3.netlify.app)
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
 
